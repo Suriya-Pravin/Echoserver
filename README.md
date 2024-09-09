@@ -1,6 +1,6 @@
 # Echoserver
 Echo server and client using python socket
-
+# Date: 09-09-2024
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
@@ -50,6 +50,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ## OUTPUT:
-
+![alt text](<Screenshot (18).png>)
 ## RESULT:
 The program is executed successfully
