@@ -1,5 +1,5 @@
-### Date: 09-09-2024
-# Echoserver
+### Date: 19-08-2024
+# Ex-1: Echoserver
 Echo server and client using python socket
 
 
